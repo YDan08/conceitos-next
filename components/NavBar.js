@@ -8,6 +8,9 @@ export const NavBar = () => {
 				<Link href='/'>Home</Link>
 			</li>
 			<li>
+				<Link href='/todos'>Todos</Link>
+			</li>
+			<li>
 				<Link href='products'>Produtos</Link>
 			</li>
 			<li>
